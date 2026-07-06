@@ -89,13 +89,6 @@ button {
     transition: all 0.3s ease;
 }
 
-
-button:hover {
-    transform: translateY(-5px) scale(1.05);
-    background-color: #004085;
-}
-
-
 .btn-principal {
     display: inline-block; 
     text-decoration: none; 
@@ -267,7 +260,6 @@ footer {
     --borde-caja: #ccc;
     --sombra-neon: rgba(0, 0, 0, 0.1);
 }
-
 
 .hola, .hole, h2 {
     color: var(--texto-titulo);
