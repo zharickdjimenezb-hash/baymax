@@ -290,6 +290,10 @@ footer {
     font-family: "Audiowide", sans-serif;
     font-size: 13px;
     transition: 0.3s;
+    position: fixed;
+    bottom: 90px;
+    left: 20px;
+    z-index: 1000;
 }
 
 .btn-theme:hover {

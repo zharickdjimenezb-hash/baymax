@@ -47,9 +47,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function actualizarTextoBoton(tema) {
         if (tema === "light") {
-            btnTema.innerText = "☀️ Modo Claro";
+            btnTema.innerText = "☀️ ";
         } else {
-            btnTema.innerText = "🌙 Modo Oscuro";
+            btnTema.innerText = "🌙 ";
         }
     }
 });
